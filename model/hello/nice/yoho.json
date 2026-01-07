@@ -1,0 +1,16 @@
+{
+  "title": "yoho",
+  "x-stoplight": {
+    "id": "1kz2gie88ooso"
+  },
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "x-stoplight": {
+        "id": "nku7uz0hrezb3"
+      },
+      "description": "[model](../../yash.yaml)\n\n[nested-model](yoho.json)\n\n[model2](../../../models/model1.yaml)"
+    }
+  }
+}

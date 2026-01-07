@@ -1,0 +1,15 @@
+title: yash
+x-stoplight:
+  id: opcpflzvek97h
+type: object
+properties:
+  id:
+    type: string
+    x-stoplight:
+      id: ll7nlvtzavkyb
+    description: |-
+      [model](../model/yash.yaml)
+
+      [nested-model](../model/hello/nice/yoho.json)
+
+      [model2](../models/model1.yaml)
